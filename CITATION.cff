@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 1: Diseño un controlador para un sistema de
+  segundo orden
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel Hiram
+    family-names: Castro Alcántar
+    email: l23212184@tijuana.tecnm.mx
+    affiliation: ITT/Tecnm
+repository-code: 'https://github.com/l23212184-ship-it/MSFP1'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1'
+date-released: '2026-10-01'
